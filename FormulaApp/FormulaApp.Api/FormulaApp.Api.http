@@ -1,0 +1,6 @@
+@FormulaApp.Api_HostAddress = http://localhost:5031
+
+GET {{FormulaApp.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

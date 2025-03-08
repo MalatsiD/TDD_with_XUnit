@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaApp.Api", "FormulaApp.Api\FormulaApp.Api.csproj", "{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaApp.UnitTests", "FormulaApp.UnitTests\FormulaApp.UnitTests.csproj", "{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A84DE6B4-077A-408B-980A-31BADD2B2296}
+	EndGlobalSection
+EndGlobal

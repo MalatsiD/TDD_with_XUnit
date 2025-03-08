@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.unittests\\systems\\services\\testfanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|solutionrelative:formulaapp.unittests\\systems\\services\\testfanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.unittests\\helpers\\mockhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|solutionrelative:formulaapp.unittests\\helpers\\mockhttphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\configuration\\apiserviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\configuration\\apiserviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\services\\fanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\services\\fanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.unittests\\fixtures\\fansfixtures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|solutionrelative:formulaapp.unittests\\fixtures\\fansfixtures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.unittests\\systems\\controllers\\testfanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|solutionrelative:formulaapp.unittests\\systems\\controllers\\testfanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\controllers\\fanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\controllers\\fanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\services\\interfaces\\ifanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\services\\interfaces\\ifanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.api\\models\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B4183F-F6B2-468A-A4F1-1E2D1423EB8A}|FormulaApp.Api\\FormulaApp.Api.csproj|solutionrelative:formulaapp.api\\models\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|c:\\projects\\tutorials\\unit testing\\formulaapp\\formulaapp.unittests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE3FBC1-27CD-48C2-A1DB-64FC2A15ADBD}|FormulaApp.UnitTests\\FormulaApp.UnitTests.csproj|solutionrelative:formulaapp.unittests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestFanService.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Systems\\Services\\TestFanService.cs",
+              "RelativeDocumentMoniker": "FormulaApp.UnitTests\\Systems\\Services\\TestFanService.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Systems\\Services\\TestFanService.cs",
+              "RelativeToolTip": "FormulaApp.UnitTests\\Systems\\Services\\TestFanService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwFMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:29:37.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockHttpHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Helpers\\MockHttpHandler.cs",
+              "RelativeDocumentMoniker": "FormulaApp.UnitTests\\Helpers\\MockHttpHandler.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Helpers\\MockHttpHandler.cs",
+              "RelativeToolTip": "FormulaApp.UnitTests\\Helpers\\MockHttpHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:18:12.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Program.cs",
+              "RelativeToolTip": "FormulaApp.Api\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:09:44.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiServiceConfig.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Configuration\\ApiServiceConfig.cs",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\Configuration\\ApiServiceConfig.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Configuration\\ApiServiceConfig.cs",
+              "RelativeToolTip": "FormulaApp.Api\\Configuration\\ApiServiceConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:59:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\appsettings.json",
+              "RelativeToolTip": "FormulaApp.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T19:47:34.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FansFixtures.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Fixtures\\FansFixtures.cs",
+              "RelativeDocumentMoniker": "FormulaApp.UnitTests\\Fixtures\\FansFixtures.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Fixtures\\FansFixtures.cs",
+              "RelativeToolTip": "FormulaApp.UnitTests\\Fixtures\\FansFixtures.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:41:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestFansController.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Systems\\Controllers\\TestFansController.cs",
+              "RelativeDocumentMoniker": "FormulaApp.UnitTests\\Systems\\Controllers\\TestFansController.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\Systems\\Controllers\\TestFansController.cs",
+              "RelativeToolTip": "FormulaApp.UnitTests\\Systems\\Controllers\\TestFansController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvxoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:45:29.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FanService.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Services\\FanService.cs",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\Services\\FanService.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Services\\FanService.cs",
+              "RelativeToolTip": "FormulaApp.Api\\Services\\FanService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:37:54.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFanService.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Services\\Interfaces\\IFanService.cs",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\Services\\Interfaces\\IFanService.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Services\\Interfaces\\IFanService.cs",
+              "RelativeToolTip": "FormulaApp.Api\\Services\\Interfaces\\IFanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:37:37.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fan.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Models\\Fan.cs",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\Models\\Fan.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Models\\Fan.cs",
+              "RelativeToolTip": "FormulaApp.Api\\Models\\Fan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T18:35:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FansController.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Controllers\\FansController.cs",
+              "RelativeDocumentMoniker": "FormulaApp.Api\\Controllers\\FansController.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.Api\\Controllers\\FansController.cs",
+              "RelativeToolTip": "FormulaApp.Api\\Controllers\\FansController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:34:39.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "FormulaApp.UnitTests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Projects\\Tutorials\\Unit Testing\\FormulaApp\\FormulaApp.UnitTests\\GlobalUsings.cs",
+              "RelativeToolTip": "FormulaApp.UnitTests\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:33:29.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
